@@ -9,3 +9,14 @@
 /Users/m4webdev/Projects/entregavelUC4/obj/Debug/netcoreapp2.1/entregavelUC4.AssemblyInfo.cs
 /Users/m4webdev/Projects/entregavelUC4/obj/Debug/netcoreapp2.1/entregavelUC4.dll
 /Users/m4webdev/Projects/entregavelUC4/obj/Debug/netcoreapp2.1/entregavelUC4.pdb
+/Users/reginaldomorikawa/Game Dev/uc4/alexandre/entregavelUC4/bin/Debug/netcoreapp2.1/entregavelUC4.deps.json
+/Users/reginaldomorikawa/Game Dev/uc4/alexandre/entregavelUC4/bin/Debug/netcoreapp2.1/entregavelUC4.runtimeconfig.json
+/Users/reginaldomorikawa/Game Dev/uc4/alexandre/entregavelUC4/bin/Debug/netcoreapp2.1/entregavelUC4.runtimeconfig.dev.json
+/Users/reginaldomorikawa/Game Dev/uc4/alexandre/entregavelUC4/bin/Debug/netcoreapp2.1/entregavelUC4.dll
+/Users/reginaldomorikawa/Game Dev/uc4/alexandre/entregavelUC4/bin/Debug/netcoreapp2.1/entregavelUC4.pdb
+/Users/reginaldomorikawa/Game Dev/uc4/alexandre/entregavelUC4/obj/Debug/netcoreapp2.1/entregavelUC4.csprojAssemblyReference.cache
+/Users/reginaldomorikawa/Game Dev/uc4/alexandre/entregavelUC4/obj/Debug/netcoreapp2.1/entregavelUC4.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Game Dev/uc4/alexandre/entregavelUC4/obj/Debug/netcoreapp2.1/entregavelUC4.AssemblyInfoInputs.cache
+/Users/reginaldomorikawa/Game Dev/uc4/alexandre/entregavelUC4/obj/Debug/netcoreapp2.1/entregavelUC4.AssemblyInfo.cs
+/Users/reginaldomorikawa/Game Dev/uc4/alexandre/entregavelUC4/obj/Debug/netcoreapp2.1/entregavelUC4.dll
+/Users/reginaldomorikawa/Game Dev/uc4/alexandre/entregavelUC4/obj/Debug/netcoreapp2.1/entregavelUC4.pdb

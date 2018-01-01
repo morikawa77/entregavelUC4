@@ -70,7 +70,10 @@ namespace entregavelUC4
         // Escreva um programa em C# para exibir uma sequência de números na ordem inversa.
         static void exercicio01()
         {
-            string sequencia = "12345";
+            string sequencia;
+
+            Console.WriteLine("Digite uma sequencia de números:");
+            sequencia = Console.ReadLine();
 
             char[] array = sequencia.ToCharArray();
             Array.Reverse(array);
@@ -82,9 +85,16 @@ namespace entregavelUC4
         // Escreva um programa C# para encontrar os números perfeitos dentro de um determinado intervalo de número.
         static void exercicio02()
         {
-            int inicial = 1, final = 50, value = 1;
+            int inicial, final, value;
             List<int> perfects = new List<int>();
 
+            Console.WriteLine("Digite o primeiro número:");
+            inicial = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Digite o último número:");
+            final = Convert.ToInt32(Console.ReadLine());
+
+            value = inicial;
 
             while (value >= inicial && value <= final)
             {
@@ -139,26 +149,26 @@ namespace entregavelUC4
             Console.WriteLine("Digite sua idade:");
             idade = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Você tem nacionalidade brasileira?");
-            Console.WriteLine("V ou F");
-            if (Console.ReadLine().ToLower() == "v")
-            {
-                brasileira = true;
-            }
-            else
-            {
-                brasileira = false;
-            }
-
-            if (idade >= 16 && brasileira)
-            {
-                Console.WriteLine("Pode votar.");
-            }
-            else
-            {
+            if (idade <16) {
                 Console.WriteLine("Não pode votar.");
-            }
+            } else {
+                Console.WriteLine("Você tem nacionalidade brasileira?");
+                Console.WriteLine("V ou F");
+                if (Console.ReadLine().ToLower() == "v")
+                {
+                    brasileira = true;
+                }
+                else
+                {
+                    brasileira = false;
+                }
 
+                if(brasileira == true) {
+                    Console.WriteLine("Pode votar.");
+                } else {
+                    Console.WriteLine("Não pode votar.");
+                }
+            }
         }
 
 
@@ -188,11 +198,11 @@ namespace entregavelUC4
         static void exercicio07()
         {
             int fatorial = 1;
-            Console.WriteLine("O fatorial de 0 é 1");
+           
             for (int n = 1; n <= 10; n++)
             {
                 fatorial = fatorial * n;
-                Console.WriteLine("O fatorial de (" + n + "!) * " + (n - 1) + " = " + fatorial);
+                Console.WriteLine("O fatorial de "+n+" é (" + (n-1) + "!) * " + (n) + " = " + fatorial);
             }
 
             Console.WriteLine("");

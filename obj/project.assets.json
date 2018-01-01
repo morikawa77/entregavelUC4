@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/m4webdev/.nuget/packages/": {},
+    "/Users/reginaldomorikawa/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/m4webdev/Projects/entregavelUC4/entregavelUC4.csproj",
+      "projectUniqueName": "/Users/reginaldomorikawa/Game Dev/uc4/alexandre/entregavelUC4/entregavelUC4.csproj",
       "projectName": "entregavelUC4",
-      "projectPath": "/Users/m4webdev/Projects/entregavelUC4/entregavelUC4.csproj",
-      "packagesPath": "/Users/m4webdev/.nuget/packages/",
-      "outputPath": "/Users/m4webdev/Projects/entregavelUC4/obj",
+      "projectPath": "/Users/reginaldomorikawa/Game Dev/uc4/alexandre/entregavelUC4/entregavelUC4.csproj",
+      "packagesPath": "/Users/reginaldomorikawa/.nuget/packages/",
+      "outputPath": "/Users/reginaldomorikawa/Game Dev/uc4/alexandre/entregavelUC4/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/m4webdev/.config/NuGet/NuGet.Config"
+        "/Users/reginaldomorikawa/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
