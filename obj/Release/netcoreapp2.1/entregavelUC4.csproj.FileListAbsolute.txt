@@ -1,0 +1,10 @@
+/Users/m4webdev/Projects/entregavelUC4/bin/Release/netcoreapp2.1/entregavelUC4.deps.json
+/Users/m4webdev/Projects/entregavelUC4/bin/Release/netcoreapp2.1/entregavelUC4.runtimeconfig.json
+/Users/m4webdev/Projects/entregavelUC4/bin/Release/netcoreapp2.1/entregavelUC4.runtimeconfig.dev.json
+/Users/m4webdev/Projects/entregavelUC4/bin/Release/netcoreapp2.1/entregavelUC4.dll
+/Users/m4webdev/Projects/entregavelUC4/bin/Release/netcoreapp2.1/entregavelUC4.pdb
+/Users/m4webdev/Projects/entregavelUC4/obj/Release/netcoreapp2.1/entregavelUC4.csproj.CoreCompileInputs.cache
+/Users/m4webdev/Projects/entregavelUC4/obj/Release/netcoreapp2.1/entregavelUC4.AssemblyInfoInputs.cache
+/Users/m4webdev/Projects/entregavelUC4/obj/Release/netcoreapp2.1/entregavelUC4.AssemblyInfo.cs
+/Users/m4webdev/Projects/entregavelUC4/obj/Release/netcoreapp2.1/entregavelUC4.dll
+/Users/m4webdev/Projects/entregavelUC4/obj/Release/netcoreapp2.1/entregavelUC4.pdb
