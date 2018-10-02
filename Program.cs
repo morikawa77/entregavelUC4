@@ -96,7 +96,7 @@ namespace entregavelUC4
 
             value = inicial;
 
-            while (value >= inicial && value <= final)
+            while (value <= final)
             {
                 int sum = 0;
 
